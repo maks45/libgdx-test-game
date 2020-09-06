@@ -1,0 +1,118 @@
+
+atlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ic_launcher-web
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+atlas2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+build/intermediates/merged_assets/debug/out/badlogic
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+build/intermediates/merged_assets/debug/out/car_top_view
+  rotate: false
+  xy: 2, 260
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+atlas3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+assets/badlogic
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+assets/car_top_view
+  rotate: false
+  xy: 2, 260
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+atlas4.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+res/drawable-xhdpi/ic_launcher
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+
+atlas5.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+res/drawable-hdpi/ic_launcher
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+
+atlas6.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+res/drawable-mdpi/ic_launcher
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+
+atlas7.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+res/drawable-xxxhdpi/ic_launcher
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+
+atlas8.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+res/drawable-xxhdpi/ic_launcher
+  rotate: false
+  xy: 2, 2
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
